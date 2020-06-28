@@ -1,0 +1,87 @@
+SWE
+
+Management, Development, Operations, Security
+
+Parte I - Setup
+1. Disciplina
+1.1. L'individuo
+1.2. Il gruppo
+2. Comunicazioni
+2.1. Email
+2.2. Telegram
+2.3. Slack
+3. Ambiente di lavoro
+3.1. Organizzazione
+3.2. Repository
+3.3. Ticket
+3.4. Github
+3.5. Altri sistemi
+4. Setup tecnici
+4.1. Autorizzazioni
+4.2. ...
+5. Versionamento
+5.1. Metodo di Mariano (Red Round Robin)
+5.2. Metodo di Marco (Bloomsoft)
+6. Documentazione
+6.1. Documenti
+6.1.1. Latex (markdown?)
+6.1.2. Google Docs
+6.2. Analisi dei requisiti
+6.2.1. Tracciamento dei requisiti
+6.2.2. Diagrammi dei casi d'uso
+
+Parte II - Progettazione
+7. Simple Design
+8. Pattern Architetturali
+9. Linguaggi
+9.1. Vincoli
+9.2. Design Patterns
+9.2. Anti-patterns
+9.4. Stile
+9.5. Linter
+9.6. IDE
+10. Framework
+11. Database
+12. Test
+13. Metriche
+14. Hosting
+14.1. Dominio
+14.2. Server
+14.3. Manutenzione
+14.4.1. Chiavi SSH
+14.4.2. Cosa non fare su un server
+14.5. Automazione
+14.6. Docker
+
+Parte III - Sviluppo
+15. Git
+15.1. commit
+15.2. merge
+15.3. branch
+15.4. pull request
+15.5. strategie
+15.5.1. git flow
+15.5.2. rebase
+15.5.3. pull request based
+15.5.4. ...
+16. Gestione dei segreti
+17. Proof of Concept
+18. Modelli di sviluppo
+19.1. Incrementale
+19.2. Iterativo
+19.3. ...
+20. Refactor
+22. Automazione
+22. Continuous Integration
+23. Continuous Delivery
+24. Validazione
+
+Parte IV - Gestire le catastrofi
+25. Git
+26.1. ohshitgit.com
+26.2. BFS per cancellare cose che non dovevano esserci
+27. Chiavi sparse
+27.1. AWS
+
+28. Note conclusive
+
