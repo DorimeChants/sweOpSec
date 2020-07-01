@@ -1,0 +1,1 @@
+pandoc -s --toc -f markdown -t pdf preamble.md */*.md -o sweOpSec.pdf

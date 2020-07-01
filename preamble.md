@@ -1,8 +1,11 @@
-# Guida Galattica per Farmacisti
+% Guida Galattica per Farmacisti
+% ![](images/Watashi_Design_Patterns.jpg) 
+% git blame \newpage
 
-![🔫 git blame](images/Watashi_Design_Patterns.jpg)
+\newpage
 
 # Introduzione
 
 "TO DO"
+
 
