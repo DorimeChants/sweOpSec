@@ -64,13 +64,14 @@ Parte III - Sviluppo
 15.5.2. rebase
 15.5.3. pull request based
 15.5.4. ...
-16. Gestione dei segreti
-17. Proof of Concept
-18. Modelli di sviluppo
-19.1. Incrementale
-19.2. Iterativo
-19.3. ...
-20. Refactor
+16. Pair Programming
+17. Gestione dei segreti
+18. Proof of Concept
+19. Modelli di sviluppo
+20.1. Incrementale
+20.2. Iterativo
+20.3. ...
+21. Refactor
 22. Automazione
 22. Continuous Integration
 23. Continuous Delivery
