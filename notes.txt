@@ -68,21 +68,21 @@ Parte III - Sviluppo
 17. Gestione dei segreti
 18. Proof of Concept
 19. Modelli di sviluppo
-20.1. Incrementale
-20.2. Iterativo
-20.3. ...
-21. Refactor
-22. Automazione
+19.1. Incrementale
+19.2. Iterativo
+19.3. ...
+20. Refactor
+21. Automazione
 22. Continuous Integration
 23. Continuous Delivery
 24. Validazione
 
 Parte IV - Gestire le catastrofi
 25. Git
-26.1. ohshitgit.com
-26.2. BFS per cancellare cose che non dovevano esserci
-27. Chiavi sparse
-27.1. AWS
+25.1. ohshitgit.com
+25.2. BFS per cancellare cose che non dovevano esserci
+26. Chiavi sparse
+26.1. AWS
 
-28. Note conclusive
+27. Note conclusive
 
