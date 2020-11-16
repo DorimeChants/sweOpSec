@@ -1,3 +1,0 @@
-# Refactor
-
-less is more

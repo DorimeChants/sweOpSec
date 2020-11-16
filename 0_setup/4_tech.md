@@ -1,5 +1,0 @@
-# Setup tecnici
-
-## Autorizzazioni (git)
-
-## ...

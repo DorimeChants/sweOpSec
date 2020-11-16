@@ -1,8 +1,0 @@
-Per aggiungere un capitolo, aggiungere in notes.txt il titolo e nella relativa sottocartella aggiungere un file md come segue:
-
-`index_titolo.md`
-
-dove `index` e' un numero incrementale che parte da 0 (e giunti al 9 prosegue se necessario con le lettere minuscole dalla a alla z) in maniera da non dover specificare l'ordine dei capitoli in un file a parte per la compilazione.
-
-Se si riscontrano problemi, duplicazioni o altre complicanze, aprire una issue e discuterne.
-
