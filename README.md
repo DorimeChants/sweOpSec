@@ -2,18 +2,16 @@
 ![🔫 git blame](images/Watashi_Design_Patterns.jpg) 
 <hr />
 
-# Introduzione
-
-## Disciplina
+# Disciplina
 
 R e s p o n s a b i l i t à.
 
-### L'individuo
+## L'individuo
 
-### Il gruppo
-## Comunicazioni
+## Il gruppo
+# Comunicazioni
 
-### Email
+## Email
 
 Gmail
 Inoltro automatico
@@ -21,131 +19,131 @@ Rispondere
 Registrarsi come gruppo
 Non collegare il numero di telefono o dispositivi
 
-### Telegram
+## Telegram
 
 Gruppo e spam
 
-### Slack
+## Slack
 
 Maybe, overkill
 
-## Ambiente di lavoro
+# Ambiente di lavoro
 
-### Organizzazione
+## Organizzazione
 
-### Repository
+## Repository
 
-### Ticket / Issue
+## Ticket / Issue
 
-### GitHub
+## GitHub
 
-### Altri sistemi
+## Altri sistemi
 
-## Setup tecnici
+# Setup tecnici
 
-### Autorizzazioni (git)
+## Autorizzazioni (git)
 
-## ...
+# ...
 
-## Versionamento
+# Versionamento
 
-### Metodo Red Round Robin
+## Metodo Red Round Robin
 
-### Metodo Bloomsoft
+## Metodo Bloomsoft
 
-## Documentazione
+# Documentazione
 
-### Documenti
+## Documenti
 
-#### LaTeX (markdown?)
+### LaTeX (markdown?)
 
-#### Google Docs
+### Google Docs
 
-### Analisi dei requisiti
+## Analisi dei requisiti
 
-#### Tracciamento dei requisiti
+### Tracciamento dei requisiti
 
-#### Diagrammi dei casi d'uso
+### Diagrammi dei casi d'uso
 
 PlantUML vs...
 
-## Framework
+# Framework
 
 cosa sono anche dal punto di vista dell'analisi del progetto e come usarli
 
-## Database
+# Database
 
 Cosa sono e come usarli e configurarli nel progetto dato che sarebbe bello non perdere dati.
 
-## Test
-
-### Come e cosa
-
-### Unità
-
-### Integrazione
-
-### Sistema
-
-### Accettazione
-## Metriche
+# Test
 
 ## Come e cosa
 
-### Perché
+## Unità
 
-### Sonarcloud / Sonarcube
-## Hosting
+## Integrazione
 
-### Dominio
+## Sistema
 
-### Server
+## Accettazione
+# Metriche
 
-#### Cloud
+## Come e cosa
 
-#### VPS
+## Perché
 
-#### Self-hosted
+## Sonarcloud / Sonarcube
+# Hosting
 
-### Manutenzione
+## Dominio
 
-#### Chiavi SSH
+## Server
 
-#### Cosa non fare su un server
+### Cloud
 
-### Automazione
+### VPS
+
+### Self-hosted
+
+## Manutenzione
+
+### Chiavi SSH
+
+### Cosa non fare su un server
+
+## Automazione
 
 Github e non
 
-### Docker
+## Docker
 
 container e come tenere pulito
 
-## Simple Design
-## Pattern architetturali
-## Linguaggi
+# Simple Design
+# Pattern architetturali
+# Linguaggi
 
-### Vincoli
+## Vincoli
 
-### Design Patterns
+## Design Patterns
 
-### Anti-patterns
+## Anti-patterns
 
 > singleton in javascript
 
-### Stile
+## Stile
 
-### Linter
+## Linter
 
-### IDE
+## IDE
 
 vim, VSCode...
 
-## Git
+# Git
 
 Usare git è fondamentale per la collaborazione sulla configurazione.
 
-- [basi di git](https://www.atlassian.com/git)
+- [Basi di git](https://www.atlassian.com/git)
   - commit
   - merge
   - branch
@@ -156,29 +154,39 @@ Usare git è fondamentale per la collaborazione sulla configurazione.
 - [Git BFG per rimuovere chiavi o password da una repo](https://rtyley.github.io/bfg-repo-cleaner/)
 
 
-## Pair Programming
-## Gestione dei segreti
-## Proof Of Concept
-## Modelli di sviluppo
-## Refactor
+# Agile
+
+[Seguite il manifesto e nulla di più.](https://en.wikipedia.org/wiki/Agile_software_development#The_Manifesto_for_Agile_Software_Development)
+
+Non applicate un framework agile (come SCRUM) solo perché vi sembra semplice e intelligente.
+
+# Delegazione e pair programming
+È bello e consigliato svolgere alcune attività insieme. Si consiglia di prendere in considerazione anche l'attività di delegazione.
+![Should you do it?](images/doit.jpeg)
+![How to delegate.](images/delegate.jpeg)
+
+# Gestione dei segreti
+# Proof Of Concept
+# Modelli di sviluppo
+# Refactor
 
 less is more
 
-## Automation
-## Continuous Integration
+# Automation
+# Continuous Integration
 
 test test test
 
-## Continuous Delivery
+# Continuous Delivery
 
 deploy deploy rollback
 
-## Validazione
+# Validazione
 
-## Chiavi sparse
+# Chiavi sparse
 
-### AWS
-## Note conclusive
+## AWS
+# Note conclusive
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
