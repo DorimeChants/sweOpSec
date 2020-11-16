@@ -1,30 +1,19 @@
-% Guida Galattica per Farmacisti
-% ![](images/Watashi_Design_Patterns.jpg) 
-% git blame \newpage
-
-\newpage
+# Guida Galattica per Farmacisti
+![🔫 git blame](images/Watashi_Design_Patterns.jpg) 
+<hr />
 
 # Introduzione
 
-![🔫 git blame](images/Watashi_Design_Patterns.jpg)
-
-
-## boh
-![:knife: git blame](images/Watashi_Design_Patterns.jpg)
-
-"TO DO"
-
-
-# Disciplina
+## Disciplina
 
 R e s p o n s a b i l i t à.
 
-## L'individuo
+### L'individuo
 
-## Il gruppo
-# Comunicazioni
+### Il gruppo
+## Comunicazioni
 
-## Email
+### Email
 
 Gmail
 Inoltro automatico
@@ -32,163 +21,173 @@ Rispondere
 Registrarsi come gruppo
 Non collegare il numero di telefono o dispositivi
 
-## Telegram
+### Telegram
 
 Gruppo e spam
 
-## Slack
+### Slack
 
 Maybe, overkill
-# Ambiente di lavoro
 
-## Organizzazione
+## Ambiente di lavoro
 
-## Repository
+### Organizzazione
 
-## Ticket / Issue
+### Repository
 
-## GitHub
+### Ticket / Issue
 
-## Altri sistemi
+### GitHub
 
-# Setup tecnici
+### Altri sistemi
 
-## Autorizzazioni (git)
+## Setup tecnici
+
+### Autorizzazioni (git)
 
 ## ...
-# Versionamento
 
-## Metodo Red Round Robin
+## Versionamento
 
-## Metodo Bloomsoft
+### Metodo Red Round Robin
 
-# Documentazione
+### Metodo Bloomsoft
 
-## Documenti
+## Documentazione
 
-### LaTeX (markdown?)
+### Documenti
 
-### Google Docs
+#### LaTeX (markdown?)
 
-## Analisi dei requisiti
+#### Google Docs
 
-### Tracciamento dei requisiti
+### Analisi dei requisiti
 
-### Diagrammi dei casi d'uso
+#### Tracciamento dei requisiti
+
+#### Diagrammi dei casi d'uso
 
 PlantUML vs...
-# Framework
+
+## Framework
 
 cosa sono anche dal punto di vista dell'analisi del progetto e come usarli
-# Database
+
+## Database
 
 Cosa sono e come usarli e configurarli nel progetto dato che sarebbe bello non perdere dati.
-# Test
+
+## Test
+
+### Come e cosa
+
+### Unità
+
+### Integrazione
+
+### Sistema
+
+### Accettazione
+## Metriche
 
 ## Come e cosa
 
-## Unità
+### Perché
 
-## Integrazione
+### Sonarcloud / Sonarcube
+## Hosting
 
-## Sistema
+### Dominio
 
-## Accettazione
-# Metriche
+### Server
 
-## Come e cosa
+#### Cloud
 
-## Perché
+#### VPS
 
-## Sonarcloud / Sonarcube
-# Hosting
+#### Self-hosted
 
-## Dominio
+### Manutenzione
 
-## Server
+#### Chiavi SSH
 
-### Cloud
+#### Cosa non fare su un server
 
-### VPS
-
-### Self-hosted
-
-## Manutenzione
-
-### Chiavi SSH
-
-### Cosa non fare su un server
-
-## Automazione
+### Automazione
 
 Github e non
 
-## Docker
+### Docker
 
 container e come tenere pulito
-# Simple Design
-# Pattern architetturali
-# Linguaggi
 
-## Vincoli
+## Simple Design
+## Pattern architetturali
+## Linguaggi
 
-## Design Patterns
+### Vincoli
 
-## Anti-patterns
+### Design Patterns
+
+### Anti-patterns
 
 > singleton in javascript
 
-## Stile
+### Stile
 
-## Linter
+### Linter
 
-## IDE
+### IDE
 
 vim, VSCode...
-# Git
 
-## commit
+## Git
 
-## merge
+### commit
 
-## branch
+### merge
 
-## pull request
+### branch
 
-## strategie
+### pull request
 
-### git flow
+### strategie
 
-### rebase
+#### git flow
 
-### pull request based
+#### rebase
 
-### ...
-# Pair Programming
-# Gestione dei segreti
-# Proof Of Concept
-# Modelli di sviluppo
-# Refactor
+#### pull request based
+
+#### ...
+## Pair Programming
+## Gestione dei segreti
+## Proof Of Concept
+## Modelli di sviluppo
+## Refactor
 
 less is more
-# Automation
-# Continuous Integration
+
+## Automation
+## Continuous Integration
 
 test test test
-# Continuous Delivery
+
+## Continuous Delivery
 
 deploy deploy rollback
-# Validazione
-# Git
 
-## Oh Shit! Git!
+## Validazione
+## Git
 
-## BFS per cancellare cose che non dovevano esserci
+### Oh Shit! Git!
 
-# Chiavi sparse
+### BFS per cancellare cose che non dovevano esserci
 
-## AWS
-# Note conclusive
+## Chiavi sparse
+
+### AWS
+## Note conclusive
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
