@@ -19,9 +19,13 @@ Rispondere
 Registrarsi come gruppo
 Non collegare il numero di telefono o dispositivi
 
+## Comunicazioni
+
 ## Telegram
 
 Gruppo e spam
+
+## Discord
 
 ## Slack
 
@@ -162,7 +166,7 @@ Non applicate un framework agile (come SCRUM) solo perché vi sembra semplice e 
 
 # Delegazione e pair programming
 È bello e consigliato svolgere alcune attività insieme. Si consiglia di prendere in considerazione anche l'attività di delegazione.
-![Should you do it?](images/doit.jpeg)
+![Should you do it?](images/doit.jpg)
 ![How to delegate.](images/delegate.jpeg)
 
 # Gestione dei segreti
