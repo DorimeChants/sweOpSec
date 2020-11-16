@@ -143,23 +143,19 @@ vim, VSCode...
 
 ## Git
 
-### commit
+Usare git è fondamentale per la collaborazione sulla configurazione.
 
-### merge
+- [basi di git](https://www.atlassian.com/git)
+  - commit
+  - merge
+  - branch
+  - pull request
+  - git flow
+- [git rebase](https://git-rebase.io/)
+- [Oh Shit! Git!](https://ohshitgit.com/)
+- [Git BFG per rimuovere chiavi o password da una repo](https://rtyley.github.io/bfg-repo-cleaner/)
 
-### branch
 
-### pull request
-
-### strategie
-
-#### git flow
-
-#### rebase
-
-#### pull request based
-
-#### ...
 ## Pair Programming
 ## Gestione dei segreti
 ## Proof Of Concept
@@ -178,11 +174,6 @@ test test test
 deploy deploy rollback
 
 ## Validazione
-## Git
-
-### Oh Shit! Git!
-
-### BFS per cancellare cose che non dovevano esserci
 
 ## Chiavi sparse
 
