@@ -1,6 +1,64 @@
 # Guida Galattica per Farmacisti
 ![🔫 git blame](images/Watashi_Design_Patterns.jpg) 
+
+
+# Git
+
+Usare git è fondamentale per la collaborazione sulla configurazione.
+
+- [Basi di git](https://www.atlassian.com/git)
+  - commit
+  - merge
+  - branch
+  - pull request
+  - git flow
+- [git rebase](https://git-rebase.io/)
+- [Oh Shit! Git!](https://ohshitgit.com/)
+- [Git BFG per rimuovere chiavi o password da una repo](https://rtyley.github.io/bfg-repo-cleaner/)
+
+Si consiglia di nominare `stable` come branch principale. Questo a promemoria di come il codice che entra in quel branch _deve_ essere testato.
+
+# Gestione dei segreti
+
+Si consiglia di creare una repository o documento a parte solo per i segreti che vengono usati tra nel gruppo (password, chiavi, token, ...).
+
+# Agile
+
+[Seguite il manifesto e nulla di più.](https://en.wikipedia.org/wiki/Agile_software_development#The_Manifesto_for_Agile_Software_Development)
+
+Non applicate un framework agile (come SCRUM) solo perché vi sembra semplice e intelligente.
+Le persone non sono blocchetti che possono essere disposti a piacimento.
+Per questo non si puó semplicemente applicare una metodologia.
+La situazione va studiata e ciascun individuo deve essere responsabile e partecipe alla scelta della metodologia da usare.
+Questo è un altro motivo per cui le norme di progetto vengono svolte in gruppo.
+
+# Delegazione e pair programming
+
+È bello e consigliato svolgere alcune attività insieme. Si consiglia di prendere in considerazione anche l'attività di delegazione.
+
+Should you do it?
+![Should you do it?](images/doit.jpg)
+
+How to delegete.
+![How to delegate.](images/delegate.jpeg)
+
+# Come scelgo il capitolato?
+
+Nella scelta del capitolato bisogna essere sicuri di cosa si sta andando incontro.
+
+Per questo viene fatto uno studio di fattibilità che per essere realizzata è necessario essere realistici e saper rispondere a questi punti.
+
+1. Cosa si aspetta il proponente di ottenere?
+2. Come mai interessa loro avere quello che produrrete?
+3. Come mai per voi può essere interessante produrlo?
+4. Che mercato può esserci per quello che produrrete e per le competenze acquisite?
+
+Siate realistici nella scelta, considerando che tutti dovranno partecipare al progetto.
+
 <hr />
+
+<!--
+Da rivedere:
 
 # Disciplina
 
@@ -13,11 +71,13 @@ R e s p o n s a b i l i t à.
 
 ## Email
 
-Gmail
-Inoltro automatico
-Rispondere
-Registrarsi come gruppo
-Non collegare il numero di telefono o dispositivi
+# Email
+
+È consigliato di configurare la mail di gruppo in modo che i messaggi vengano automaticamente inoltrati a tutti i componenti del gruppo.
+
+Gmail permette questo in maniera molto semplice (spiegare davvero?). Si sconsiglia di collegare numeri di telefono o aggiungere l'account su dispositivi Android.
+
+come rispondere...
 
 ## Comunicazioni
 
@@ -39,13 +99,20 @@ Maybe, overkill
 
 ## Ticket / Issue
 
+Segnarsi le cose da fare.
+Ordinare per gerarchia e categoria.
+Feature -> Task
+
 ## GitHub
+Issue, progetti, actions...
 
 ## Altri sistemi
 
 # Setup tecnici
 
 ## Autorizzazioni (git)
+
+
 
 # ...
 
@@ -97,6 +164,9 @@ Cosa sono e come usarli e configurarli nel progetto dato che sarebbe bello non p
 ## Perché
 
 ## Sonarcloud / Sonarcube
+
+Si consiglia di configurare sonarcloud/sonarcube per verificare il codice in maniera automatica.
+
 # Hosting
 
 ## Dominio
@@ -143,33 +213,15 @@ container e come tenere pulito
 
 vim, VSCode...
 
-# Git
+Linguaggio, editor e compilatori sono irrilevanti davanti ad un'analisi e progettazione scadenti.
 
-Usare git è fondamentale per la collaborazione sulla configurazione.
+Per la scrittura del codice si consiglia di scriverne il meno possibile, ma questo non implica scrivere le variabili con singoli caratteri: è sempre necessaria chiarezza nel codice per rendere comprensibile a tutti — soprattuto a chi leggerá dopo per trovare errori.
 
-- [Basi di git](https://www.atlassian.com/git)
-  - commit
-  - merge
-  - branch
-  - pull request
-  - git flow
-- [git rebase](https://git-rebase.io/)
-- [Oh Shit! Git!](https://ohshitgit.com/)
-- [Git BFG per rimuovere chiavi o password da una repo](https://rtyley.github.io/bfg-repo-cleaner/)
+Il linguaggio scelto porta con sé pregi e vincoli che vanno considerati in fase di progettazione.
+
+La progettazione deve prevedere ogni singolo aspetto del programma per facilitare la scrittura.
 
 
-# Agile
-
-[Seguite il manifesto e nulla di più.](https://en.wikipedia.org/wiki/Agile_software_development#The_Manifesto_for_Agile_Software_Development)
-
-Non applicate un framework agile (come SCRUM) solo perché vi sembra semplice e intelligente.
-
-# Delegazione e pair programming
-È bello e consigliato svolgere alcune attività insieme. Si consiglia di prendere in considerazione anche l'attività di delegazione.
-![Should you do it?](images/doit.jpg)
-![How to delegate.](images/delegate.jpeg)
-
-# Gestione dei segreti
 # Proof Of Concept
 # Modelli di sviluppo
 # Refactor
@@ -190,6 +242,9 @@ deploy deploy rollback
 # Chiavi sparse
 
 ## AWS
+
+-->
+
 # Note conclusive
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
