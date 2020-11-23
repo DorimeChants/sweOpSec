@@ -20,7 +20,7 @@ Si consiglia di nominare `stable` come branch principale. Questo a promemoria di
 
 # Gestione dei segreti
 
-Si consiglia di creare una repository o documento a parte solo per i segreti che vengono usati tra nel gruppo (password, chiavi, token, ...).
+Si consiglia di creare una repository o documento a parte solo per i segreti che vengono usati nel gruppo (password, chiavi, token, ...).
 
 # Agile
 
