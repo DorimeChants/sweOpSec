@@ -15,6 +15,7 @@ Usare git è fondamentale per la collaborazione sulla configurazione.
 - [git rebase](https://git-rebase.io/)
 - [Oh Shit! Git!](https://ohshitgit.com/)
 - [Git BFG per rimuovere chiavi o password da una repo](https://rtyley.github.io/bfg-repo-cleaner/)
+- [Ma io voglio una gui](https://git-scm.com/docs/gitk)
 
 Si consiglia di nominare `stable` come branch principale. Questo a promemoria di come il codice che entra in quel branch _deve_ essere testato.
 
